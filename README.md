@@ -34,6 +34,14 @@ Portfólio web sobre mim, desenvolvido na disciplina de Programação Web.
 
 [Ver Site](https://luismigueld.github.io/Trabalho-progamacao-web/) | [Ver Repositório](https://github.com/LuisMiguelD/Trabalho-progamacao-web)
 
+### Go to Treasure (Atrás do Tesouro)
+
+Jogo multiplayer cliente-servidor desenvolvido em grupo, em C para Windows. Os jogadores se conectam a um servidor via TCP/IP e competem para encontrar tesouros escondidos em um tabuleiro 6x6, com ranking global protegido por sincronização de threads. Suporta até 20 jogadores simultâneos, cada um tratado por uma thread dedicada no servidor.
+
+**Tecnologias:** C, Winsock2 (TCP/IP), Windows API (threads e sincronização)
+
+[Ver Repositório](https://github.com/PedroVictor-PV/atras-do-tesouro)
+
 ## 🌱 Atualmente Estudando
 
 - Análise e Desenvolvimento de Sistemas
